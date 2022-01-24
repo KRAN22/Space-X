@@ -1,0 +1,10 @@
+.launches {
+  width: 800px;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.launches .launch {
+  margin-bottom: 20px;
+}

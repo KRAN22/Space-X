@@ -1,0 +1,27 @@
+.attribute {
+  display: flex;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.attribute h1 {
+  color: lightseagreen;
+  width: 450px;
+  font-size: 24px;
+}
+
+.launchView {
+  text-align: center;
+  width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+}
+.launchView p {
+  /* width: 800px; */
+  color: lightslategrey;
+}
+
+.launchView img {
+  width: auto;
+  height: 600px;
+}

@@ -1,0 +1,36 @@
+.launch {
+  box-shadow: 2px 2px 9px 2px gray;
+  width: 100%;
+  height: 200px;
+  display: flex;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.launch img {
+  width: 200px;
+  height: 200px;
+}
+.container {
+  color: rgb(19, 45, 102);
+  width: 80%;
+  margin-left: 10px;
+}
+.container .info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container p {
+  color: gray;
+  font-size: 20px;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin-top: 40px;
+}
+.info {
+  font-size: 12px;
+}
